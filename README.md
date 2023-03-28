@@ -43,7 +43,7 @@ Display all the Transformed images.
 
 ## Program:
 ```python
-Developed By: MOHAN RAJ
+Developed By: THMARAI SELVAN 
 Register Number:212221230115
 import numpy as np
 import cv2
